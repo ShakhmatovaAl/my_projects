@@ -6,5 +6,5 @@
 - test (с анализом поступления денежных средств)
 - conversion (с анализом поведения пользователей приложения)
 
-В проектax использовались библиотеки: pandas, numpy, stats, matplotlib, plotly, seaborn
+В проектax использовались библиотеки Python: pandas, numpy, stats, matplotlib, plotly, seaborn
 
