@@ -9,4 +9,4 @@
 - Проанализировать результаты
 
 
-Используемые библиотеки: **pandas, seaborn, numpy, scipy, datetime, matplotlib, plotly.express**
+Используемые библиотеки: **pandas, seaborn, numpy, scipy, datetime, matplotlib, plotly**
